@@ -4,13 +4,15 @@ description = "Yay, my hugo website seems to work"
 author = "Deleven"
 date = "2020-01-03"
 tags = ["Website"]
+categories = ["HomeLab", "Website"]
+
 [[images]]
-  src = "img/2022/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg"
+  src = "img/Blog_header/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg"
   alt = "Desert Scene"
   stretch = "stretchH"
 +++
 
-Emoji can be enabled in a Hugo project in a number of ways.
+This is just the first post to try things out
 <!--more-->
 The [`emojify`](https://gohugo.io/functions/emojify/) function can be called directly in templates or [Inline Shortcodes](https://gohugo.io/templates/shortcode-templates/#inline-shortcodes).
 

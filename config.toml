@@ -30,7 +30,7 @@ disableLanguages        = ["true"]
   highlightjsLang       = []
   viewMorePostsLink     = "blog"
   readingTime           = true
-  imageStretch          = ""
+  imageStretch          = "v"
   removeBlur            = false
   socialShare           = ["twitter", "facebook", "reddit", "linkedin", "pinterest", "email"]
   hideEmptyStats        = false
@@ -48,7 +48,7 @@ disableLanguages        = ["true"]
 
   [params.header]
     navbarTitle         = "Delevens Blog"
-    dynamicTitles       = true
+    dynamicTitles       = false
     searchMenu          = true
     shareMenu           = true
     languageMenu        = false
@@ -68,14 +68,14 @@ disableLanguages        = ["true"]
       alt                 = "Delevens Blog"
 
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
-    postAmount          = 5
+    about               = ""
     categories          = true
     categoriesByCount   = true
+    postAmount          = 10
 
   [params.footer]
-    rssFooter           = true
-    socialFooter        = true
+    rssFooter           = false
+    socialFooter        = false
 
   [params.utterances]
     enabled             = false
