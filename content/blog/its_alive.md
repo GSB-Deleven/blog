@@ -11,15 +11,19 @@ categories = ["HomeLab", "Website"]
   alt = "Desert Scene"
   stretch = "stretchH"
 +++
-
+<!-- ----------------------------------- -->
+<!-- ---------- Text Snippet ----------- -->
+<!-- ----------------------------------- -->
 This is just the first post to try things out
 <!--more-->
-
+<!-- ################################### -->
+<!-- ######## Full Blog Text ########### -->
+<!-- ################################### -->
 ## To Do List
 
 - Link icons with correct Link
 - Setup Contact Form
-- 
+- find out how to add an picture to an author
 
 <!-- ################################### -->
 <!-- ########## CSS-Styling ############ -->

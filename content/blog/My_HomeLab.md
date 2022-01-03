@@ -1,9 +1,9 @@
 +++
 title = "My Homelab"
-description = "Some Text"
+description = "What is my HomeLab Setup"
 author = "Deleven"
 date = "2020-01-04"
-tags = ["todo"]
+tags = ["Hardware", "Software"]
 categories = ["HomeLab"]
 
 [[images]]
@@ -12,16 +12,22 @@ categories = ["HomeLab"]
   stretch = "stretchH"
 +++
 
-This is just the first post to try things out...
+<!-- ----------------------------------- -->
+<!-- ---------- Text Snippet ----------- -->
+<!-- ----------------------------------- -->
+
+Let's see what runs on what...
 <!--more-->
+<!-- ################################### -->
+<!-- ######## Full Blog Text ########### -->
+<!-- ################################### -->
 ...  
 
 
 
-
-<!-- ################################### -->
-<!-- ########## CSS-Styling ############ -->
-<!-- ################################### -->
+<!-- +++++++++++++++++++++++++++++++++++ -->
+<!-- ++++++++++ CSS-Styling ++++++++++++ -->
+<!-- +++++++++++++++++++++++++++++++++++ -->
 
 {{< css.inline >}}
 <style>
