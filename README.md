@@ -14,6 +14,7 @@
 *  **Hugo Stuff**
    * https://gohugo.io/getting-started/
    * https://themes.gohugo.io/themes/hugo-future-imperfect-slim/
+   * https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 
 ---
 
