@@ -19,14 +19,11 @@ This is just the first post to try things out
 <!-- ################################### -->
 <!-- ######## Full Blog Text ########### -->
 <!-- ################################### -->
-## To Do List
 
-- Link icons with correct Link
-- Setup Contact Form
-- find out how to add an picture to an author
-- complete about page
-	- maybe check formating from this for contacts
-- disable comments or get them working
+## Todo
+
+can be found in the [Github Issues](https://github.com/GSB-Deleven/blog/issues/)
+
 
 <!-- ################################### -->
 <!-- ########## CSS-Styling ############ -->
