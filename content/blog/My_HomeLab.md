@@ -1,13 +1,13 @@
 +++
-title = "It's alive"
-description = "Yay, my hugo website seems to work"
+title = "My Homelab"
+description = "Some Text"
 author = "Deleven"
-date = "2020-01-03"
+date = "2020-01-04"
 tags = ["todo"]
 categories = ["HomeLab"]
 
 [[images]]
-  src = "img/Blog_header/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg"
+  src = "img/Blog_header/photo-1558494949-ef010cbdcc31.webp"
   alt = "Desert Scene"
   stretch = "stretchH"
 +++
@@ -16,11 +16,7 @@ This is just the first post to try things out...
 <!--more-->
 ...  
 
-## To Do List
 
-- Link icons with correct Link
-- Setup Contact Form
-- 
 
 
 <!-- ################################### -->
