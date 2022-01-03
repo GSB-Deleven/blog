@@ -1,11 +1,11 @@
 +++
-title = "Emoji Support"
-description = "Guide to emoji usage in Hugo"
-author = "Hugo Authors"
-date = "2019-03-05"
-tags = ["emoji"]
+title = "It's alive"
+description = "Yay, my hugo website seems to work"
+author = "Deleven"
+date = "2020-01-03"
+tags = ["Website"]
 [[images]]
-  src = "img/2019/03/pic02.jpg"
+  src = "img/2022/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg"
   alt = "Desert Scene"
   stretch = "stretchH"
 +++
