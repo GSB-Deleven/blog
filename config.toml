@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "https://quirky-lewin-6331f7.netlify.app"
+baseurl                 = "https://blog.deleven.net"
 DefaultContentLanguage  = "en"
 title                   = "Delevens Blog"
 theme                   = "hugo-future-imperfect-slim"
