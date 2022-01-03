@@ -26,6 +26,7 @@ This is just the first post to try things out
 - find out how to add an picture to an author
 - complete about page
 	- maybe check formating from this for contacts
+- disable comments or get them working
 
 <!-- ################################### -->
 <!-- ########## CSS-Styling ############ -->
