@@ -15,6 +15,6 @@ https://app.netlify.com
 
 ## Guides I used
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/J08HrMroGqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Guide](https://img.youtube.com/vi/J08HrMroGqM/0.jpg)](https://www.youtube.com/watch?v=J08HrMroGqM)
 
 ---
