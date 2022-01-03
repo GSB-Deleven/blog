@@ -62,7 +62,7 @@ disableLanguages        = ["true"]
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "resources/_gen/images/XZWdSKDA_400x400.jpg"
+      src                 = "img/main/XZWdSKDA_400x400.jpg"
       shape               = "circle"
       width               = ""
       alt                 = "Delevens Blog"
