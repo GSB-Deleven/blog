@@ -8,7 +8,7 @@ paginate                = 3
 disqusShortname         = ""
 googleAnalytics         = ""
 pluralizeListTitles     = false
-disableLanguages        = [true]
+disableLanguages        = ["true"]
 
 [markup.goldmark.renderer]
   unsafe                = true
@@ -47,25 +47,25 @@ disableLanguages        = [true]
     iOSColor            = "#ffffff"
 
   [params.header]
-    navbarTitle         = "Future Imperfect"
+    navbarTitle         = "Delevens Blog"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
-    languageMenu        = true
+    languageMenu        = false
 
   [params.intro]
-    header                = "Hugo Future Imperfect Slim"
-    paragraph             = "Another fine, responsive site template by <a href='http://html5up.net'>HTML5 UP</a>."
+    header                = "Delevens Blog"
+    paragraph             = "A place to store my thoughts"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
 
     [params.intro.pic]
-      src                 = "img/main/logo.jpg"
+      src                 = "resources/_gen/images/XZWdSKDA_400x400.jpg"
       shape               = "circle"
       width               = ""
-      alt                 = "Hugo Future Imperfect Slim"
+      alt                 = "Delevens Blog"
 
   [params.sidebar]
     about               = "This theme was developed for Hugo static site generator."
