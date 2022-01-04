@@ -7,7 +7,7 @@ tags = ["Hardware", "Software"]
 categories = ["Website"]
 
 [[images]]
-src = "img/Blog_header/code-editoren-t.jpg"
+src = "https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg"
 alt = "Desert Scene"
 stretch = "stretchH"
 +++
@@ -22,8 +22,7 @@ stretch = "stretchH"
 `sudo git submodule update --remote --merge`  
 `cd /usr/local/blog`  
 `sudo hugo server -D`  
-
-
+I Just learned that I can set the Date of a post in the future and it will desapear until that date
 <!--more-->
 
 <!-- ################################### -->
