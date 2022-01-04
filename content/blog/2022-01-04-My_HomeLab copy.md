@@ -8,7 +8,7 @@ categories = ["HomeLab"]
 
 [[images]]
 src = "img/Blog_header/photo-1558494949-ef010cbdcc31.webp"
-alt = "Desert Scene"
+alt = "Server Image"
 stretch = "stretchH"
 +++
 

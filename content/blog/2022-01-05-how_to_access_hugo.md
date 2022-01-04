@@ -3,12 +3,12 @@ title = "How to acces Hugo"
 description = "Just a dummy Guide for me"
 author = "Deleven"
 date = "2022-01-05"
-tags = ["Hardware", "Software"]
-categories = ["Website"]
+tags = ["Hugo"]
+categories = ["Website", "Guide"]
 
 [[images]]
 src = "https://d33wubrfki0l68.cloudfront.net/c38c7334cc3f23585738e40334284fddcaf03d5e/2e17c/images/hugo-logo-wide.svg"
-alt = "Desert Scene"
+alt = "Hugo Logo"
 stretch = "stretchH"
 +++
 
