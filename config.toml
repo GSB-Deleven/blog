@@ -5,7 +5,7 @@ DefaultContentLanguage  = "en"
 title                   = "Delevens Blog"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
-disqusShortname         = ""
+disqusShortname         = "Deleven"
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = ["true"]
@@ -67,7 +67,7 @@ disableLanguages        = ["true"]
 
     [params.intro.pic]
       src                 = "img/main/XZWdSKDA_400x400.jpg"
-      shape               = "circle"
+      shape               = "parallelogram"
       width               = ""
       alt                 = "Delevens Blog"
 
@@ -90,7 +90,7 @@ disableLanguages        = ["true"]
     theme               = "github-light"
 
   [params.staticman]
-    enabled             = true
+    enabled             = false
     api                 = ""  # No Trailing Slash
     gitProvider         = ""
     username            = ""
@@ -117,37 +117,45 @@ disableLanguages        = ["true"]
   [[menu.main]]
     name              = "About"
     identifier        = "about"
-    url               = "about"
+    url               = " /about"
     pre               = "<i class='far fa-id-card'></i>"
     weight            = 2
 
   [[menu.main]]
     name              = "Blog"
     identifier        = "blog"
-    url               = "blog"
+    url               = "/blog"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 3
+
+  [[menu.main]]
+    name              = "Contact"
+    identifier        = "contact"
+    url               = "/contact"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 4
+
+  [[menu.main]]
+    name              = "My HomeLab"
+    identifier        = "homelab"
+    url               = "/homelab"
+    pre               = "<i class='far fa-server'></i>"
+    weight            = 5
 
   [[menu.main]]
     name              = "Categories"
     identifier        = "categories"
     url               = "categories"
     pre               = "<i class='fas fa-sitemap'></i>"
-    weight            = 5
-
-  [[menu.main]]
-    name              = "Contact"
-    identifier        = "contact"
-    url               = "contact"
-    pre               = "<i class='far fa-envelope'></i>"
     weight            = 6
 
   [[menu.main]]
-    name              = "Test"
-    identifier        = "test"
-    url               = "test"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 6
+    name              = "Deleven Photography"
+    identifier        = "delevenphotography"
+    url               = "https://delevenphotography.com"
+    pre               = "<i class='fas fa-camera-retro'></i>"
+    weight            = 7
+  
 
 ###################################################################### 
 # Language
