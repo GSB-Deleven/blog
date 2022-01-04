@@ -7,7 +7,7 @@ layout = "about"
 +++
 
 Use either the Social Media Icons on the  left or the contact form below.  
-(The `contact form` or a `Twitter DM` is the best way to reach me)
+(This **contact form** or a **Twitter DM** is the best way to reach me)
 
 ---
 
