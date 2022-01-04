@@ -142,6 +142,13 @@ disableLanguages        = ["true"]
     pre               = "<i class='far fa-envelope'></i>"
     weight            = 6
 
+  [[menu.main]]
+    name              = "Test"
+    identifier        = "test"
+    url               = "test"
+    pre               = "<i class='far fa-envelope'></i>"
+    weight            = 6
+
 ###################################################################### 
 # Language
 ######################################################################
