@@ -7,7 +7,7 @@ layout = "about"
 +++
 
 Use either the Social Media Icons on the  left or the contact form below.  
-(This **contact form** or a [**Twitter DM**](https://twitter.com/GSB_Deleven) is the best way to reach me)
+(This **contact form** or a **<a href="https://www.youtube.com/c/DBTechYT" target="_blank">Twitter DM</a>** is the best way to reach me)
 
 ---
 
