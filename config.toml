@@ -21,6 +21,10 @@ disableLanguages        = ["true"]
 [outputs]
   home                  = ["html", "json", "rss"]
 
+###################################################################### 
+# Params
+######################################################################
+
 [params]
   enableCDN             = false
   cssFiles              = ["default"]
@@ -50,7 +54,7 @@ disableLanguages        = ["true"]
     navbarTitle         = "Delevens Blog"
     dynamicTitles       = false
     searchMenu          = true
-    shareMenu           = true
+    shareMenu           = false
     languageMenu        = false
 
   [params.intro]
@@ -97,6 +101,10 @@ disableLanguages        = ["true"]
       siteKey           = ""
       encryptedKey      = ""
 
+###################################################################### 
+# Menu
+######################################################################
+
 [menu]
 
   [[menu.main]]
@@ -133,6 +141,10 @@ disableLanguages        = ["true"]
     url               = "contact"
     pre               = "<i class='far fa-envelope'></i>"
     weight            = 6
+
+###################################################################### 
+# Language
+######################################################################
 
 [Languages]
 
@@ -331,6 +343,10 @@ disableLanguages        = ["true"]
       url               = "contact"
       pre               = "<i class='far fa-envelope'></i>"
       weight            = 6
+
+###################################################################### 
+# Social
+######################################################################
 
 [social]
   # Coding Communities
