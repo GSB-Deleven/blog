@@ -19,7 +19,6 @@ I handle most of it via SSH, it works ok like that.
 Maybe one day i will have a powerfull enough machine to handle all of the tasks at the same time ;)
 I might also just throw `proxmox` on my `Gaming PC` one day and handle everything like that in one place.
 But for now it seems to work fine like it is.
-
 ## What is where and on what
 
 **MacMini**
@@ -40,7 +39,7 @@ But for now it seems to work fine like it is.
   - Radarr
   - NZBGet
   - Portainer
-  - Backups
+  - Backups (Manual + Active Backup for Business)
 
 ---
 
