@@ -7,7 +7,7 @@
 ## Useful Links
 
 * **My Page**
-  * **https://blog.deleven.net**$
+  * **https://blog.deleven.net**
 
 ---
 
