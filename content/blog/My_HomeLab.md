@@ -18,10 +18,8 @@ stretch = "stretchH"
 
 <!-- ----------------------------------- -->
 
-You will find a link in the Top Navbar to [My HomeLab](/homelab)
-
-This will be the place where I list all the Computers/Servers/etc., what software is running on which device and how i set everything up.
-
+You will find a link in the Top Navbar to [My HomeLab](/homelab)  
+This will be the place where I list all the Computers/Servers/etc., what software is running on which device and how i set everything up.  
 This will take quite a while to create, so please be patient
 
 <!--more-->
