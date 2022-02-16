@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Delevens Blog</title>
+    <link>https://blog.deleven.net/tags/hugo/</link>
+    <description>Recent content in Hugo on Delevens Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.deleven.net/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to acces Hugo</title>
+      <link>https://blog.deleven.net/blog/2022-01-05-how_to_access_hugo/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/blog/2022-01-05-how_to_access_hugo/</guid>
+      <description>&lt;!-- ----------------------------------- --&gt;
+&lt;!-- ---------- Text Snippet ----------- --&gt;
+&lt;!-- ----------------------------------- --&gt;
+&lt;p&gt;&lt;code&gt;sudo git submodule update --remote --merge&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;cd /usr/local/blog&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;sudo hugo server -D&lt;/code&gt;&lt;br&gt;
+I Just learned that I can set the Date of a post in the future and it will desapear until that date&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

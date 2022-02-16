@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Delevens Blog</title>
+    <link>https://blog.deleven.net/blog/</link>
+    <description>Recent content in Blog on Delevens Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.deleven.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to acces Hugo</title>
+      <link>https://blog.deleven.net/blog/2022-01-05-how_to_access_hugo/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/blog/2022-01-05-how_to_access_hugo/</guid>
+      <description>&lt;!-- ----------------------------------- --&gt;
+&lt;!-- ---------- Text Snippet ----------- --&gt;
+&lt;!-- ----------------------------------- --&gt;
+&lt;p&gt;&lt;code&gt;sudo git submodule update --remote --merge&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;cd /usr/local/blog&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;sudo hugo server -D&lt;/code&gt;&lt;br&gt;
+I Just learned that I can set the Date of a post in the future and it will desapear until that date&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Homelab</title>
+      <link>https://blog.deleven.net/blog/2022-01-04-my_homelab-copy/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/blog/2022-01-04-my_homelab-copy/</guid>
+      <description>&lt;!-- ----------------------------------- --&gt;
+&lt;!-- ---------- Text Snippet ----------- --&gt;
+&lt;!-- ----------------------------------- --&gt;
+&lt;p&gt;You will find a link in the Top Navbar to &lt;a href=&#34;https://blog.deleven.net/homelab&#34;&gt;My HomeLab&lt;/a&gt;&lt;br&gt;
+This will be the place where I list all the Computers/Servers/etc., what software is running on which device and how i set everything up.&lt;br&gt;
+This will take quite a while to create, so please be patient&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s alive</title>
+      <link>https://blog.deleven.net/blog/2022-01-03-its_alive/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/blog/2022-01-03-its_alive/</guid>
+      <description>&lt;!-- ----------------------------------- --&gt;
+&lt;!-- ---------- Text Snippet ----------- --&gt;
+&lt;!-- ----------------------------------- --&gt;
+&lt;p&gt;This is just the first post to try things out&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

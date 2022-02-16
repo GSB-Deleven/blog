@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware on Delevens Blog</title>
+    <link>https://blog.deleven.net/tags/hardware/</link>
+    <description>Recent content in Hardware on Delevens Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.deleven.net/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Homelab</title>
+      <link>https://blog.deleven.net/blog/2022-01-04-my_homelab-copy/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/blog/2022-01-04-my_homelab-copy/</guid>
+      <description>&lt;!-- ----------------------------------- --&gt;
+&lt;!-- ---------- Text Snippet ----------- --&gt;
+&lt;!-- ----------------------------------- --&gt;
+&lt;p&gt;You will find a link in the Top Navbar to &lt;a href=&#34;https://blog.deleven.net/homelab&#34;&gt;My HomeLab&lt;/a&gt;&lt;br&gt;
+This will be the place where I list all the Computers/Servers/etc., what software is running on which device and how i set everything up.&lt;br&gt;
+This will take quite a while to create, so please be patient&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

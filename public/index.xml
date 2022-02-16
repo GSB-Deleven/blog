@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Delevens Blog</title>
+    <link>https://blog.deleven.net/</link>
+    <description>Recent content on Delevens Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.deleven.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to acces Hugo</title>
+      <link>https://blog.deleven.net/blog/2022-01-05-how_to_access_hugo/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/blog/2022-01-05-how_to_access_hugo/</guid>
+      <description>&lt;!-- ----------------------------------- --&gt;
+&lt;!-- ---------- Text Snippet ----------- --&gt;
+&lt;!-- ----------------------------------- --&gt;
+&lt;p&gt;&lt;code&gt;sudo git submodule update --remote --merge&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;cd /usr/local/blog&lt;/code&gt;&lt;br&gt;
+&lt;code&gt;sudo hugo server -D&lt;/code&gt;&lt;br&gt;
+I Just learned that I can set the Date of a post in the future and it will desapear until that date&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://blog.deleven.net/about/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/about/</guid>
+      <description>I&amp;rsquo;m Dave aka Deleven
+I am a Dad, Husband, Dogdaddy, Geek, Nerd, Photographer, Tech enthusiast and somewhat of a weirdo
+I think that should already tell you quite a bit about me.
+ Here are some more facts about me:
+ I&amp;rsquo;m Swiss🇨🇭  No, I am not made out of money Yes, we do eat other things than cheese and choclate No Switzerland🇨🇭 is not Sweden🇸🇪   I have many talents, but writing and grammar aren&amp;rsquo;t some of them  I get, that it is kind of ironic to say that and then create a blog in english.</description>
+    </item>
+    
+    <item>
+      <title>My Homelab</title>
+      <link>https://blog.deleven.net/blog/2022-01-04-my_homelab-copy/</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/blog/2022-01-04-my_homelab-copy/</guid>
+      <description>&lt;!-- ----------------------------------- --&gt;
+&lt;!-- ---------- Text Snippet ----------- --&gt;
+&lt;!-- ----------------------------------- --&gt;
+&lt;p&gt;You will find a link in the Top Navbar to &lt;a href=&#34;https://blog.deleven.net/homelab&#34;&gt;My HomeLab&lt;/a&gt;&lt;br&gt;
+This will be the place where I list all the Computers/Servers/etc., what software is running on which device and how i set everything up.&lt;br&gt;
+This will take quite a while to create, so please be patient&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s alive</title>
+      <link>https://blog.deleven.net/blog/2022-01-03-its_alive/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/blog/2022-01-03-its_alive/</guid>
+      <description>&lt;!-- ----------------------------------- --&gt;
+&lt;!-- ---------- Text Snippet ----------- --&gt;
+&lt;!-- ----------------------------------- --&gt;
+&lt;p&gt;This is just the first post to try things out&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My HomeLab</title>
+      <link>https://blog.deleven.net/homelab/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/homelab/</guid>
+      <description>Homelab Setup 2022 I have accumulated a whole lot of computers/tablets/phones/NAS/etc over the years. Thats why my HomeLab Build is probably a lot different the what you are used to.
+Most of my machines have quite low specs, and several different Operating Systems, so I distribute the tasks between them. I handle most of it via SSH, it works ok like that.
+Maybe one day i will have a powerfull enough machine to handle all of the tasks at the same time ;) I might also just throw proxmox on my Gaming PC one day and handle everything like that in one place.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://blog.deleven.net/contact/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/contact/</guid>
+      <description>Use either the Social Media Icons on the left or the contact form below.
+(This contact form or a Twitter DM is the best way to reach me)
+ Name Email Address Message     </description>
+    </item>
+    
+  </channel>
+</rss>

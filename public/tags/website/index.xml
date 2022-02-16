@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Delevens Blog</title>
+    <link>https://blog.deleven.net/tags/website/</link>
+    <description>Recent content in Website on Delevens Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.deleven.net/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It&#39;s alive</title>
+      <link>https://blog.deleven.net/blog/2022-01-03-its_alive/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.deleven.net/blog/2022-01-03-its_alive/</guid>
+      <description>&lt;!-- ----------------------------------- --&gt;
+&lt;!-- ---------- Text Snippet ----------- --&gt;
+&lt;!-- ----------------------------------- --&gt;
+&lt;p&gt;This is just the first post to try things out&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
